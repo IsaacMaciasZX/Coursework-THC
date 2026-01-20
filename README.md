@@ -1,7 +1,7 @@
-# Coursework – Applied Mathematics (Python)
+# Coursework in Applied Mathematics
 
 This repository contains selected coursework completed as part of my Applied Mathematics bachelor's at UNAM.
-All the notebooks used problem solving with Python and some data analysis basics.
+All the notebooks used problem solving with Python (to this day, hope to add a java script i have) and some data analysis basics.
 
 Those include
 - Numpy and Matplotlib tasks  
